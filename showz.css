@@ -1,0 +1,32 @@
+#info {
+	width:1050px;
+	margin: auto;
+}
+
+.banner {
+	background-color: white;
+	padding: 25px 25px 25px 25px;
+	border-radius:25px;
+	margin-bottom:10px;
+}
+
+#mc_embed_signup{
+		background: orange; 
+		color: blue;
+		float:right; 
+		font:14px 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif; 
+		width: 500px; 
+		border-radius:25px;
+}
+
+#company_info {
+	color: blue;
+	text-align: left;
+	font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+	background-color: orange;
+	border-radius:25px;
+	padding: 25px 25px 25px 25px;
+	overflow: scroll;
+	width: 490px;
+	margin-top: 60px;
+}
